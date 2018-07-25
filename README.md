@@ -1,6 +1,6 @@
-#JavaScript and CSS Clock
+# JavaScript and CSS Clock
 
-##An analog clockface built with JavaScript
+## An analog clockface built with JavaScript
 
 JavaScript
 - Use setInterval function to run the setDate() function every second
