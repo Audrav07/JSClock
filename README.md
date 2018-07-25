@@ -1,5 +1,10 @@
 # JavaScript and CSS Clock
 
+![photo](screen.png)
+
+
+[Clock](https://audrav07.github.io/JSClock/)
+
 ## An analog clockface built with JavaScript
 
 JavaScript
